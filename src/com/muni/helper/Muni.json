@@ -1,0 +1,120 @@
+[
+	{
+		"polyglotId": "236faa0f-ea80-4419-872c-9b6252ebc7ec",
+		"polyglotParentId": null,
+		"tenantId": "b8b015476b5a4b339086fccbca94f088",
+		"tenantToken": "b8b015476b5a4b339086fccbca94f088",
+		"adjustmentId": "LI-201806148A7DA423B0",
+		"referenceInstFromId": "DN-201806132609BDDE",
+		"referenceInstToId": "GRN-20180614BEC31833",
+		"refFromLineId": "LI-20180613F2B728B2",
+		"refToLineId": "LI-2018061448B5C4F2",
+		"status": "REJECTED",
+		"networkId": "a3835234-f11f-458b-b01d-a1a9cfeae48d",
+		"createdDate": "2018-06-14T09:34:04.616Z",
+		"updatedDate": "2018-06-14T09:34:53.488Z",
+		"reason": "Larger Area",
+		"balanceAmount": 0.0,
+		"balanceHours": 0.0,
+		"actualQuantity": {
+			"polyglotId": "40d30ab2-a6d8-4b7a-add5-d9c2963fd160",
+			"polyglotParentId": "236faa0f-ea80-4419-872c-9b6252ebc7ec",
+			"tenantId": "b8b015476b5a4b339086fccbca94f088",
+			"tenantToken": null,
+			"unit": "Hour",
+			"value": 120.0
+		},
+		"expectedQuantity": {
+			"polyglotId": "208b92fb-e70d-49ac-a3ae-3181ad1cf943",
+			"polyglotParentId": "236faa0f-ea80-4419-872c-9b6252ebc7ec",
+			"tenantId": "b8b015476b5a4b339086fccbca94f088",
+			"tenantToken": null,
+			"unit": "Hour",
+			"value": 60.0
+		},
+		"recipient": {
+			"polyglotId": "92be23b7-debe-45f9-984d-d80bd43a6f35",
+			"polyglotParentId": "236faa0f-ea80-4419-872c-9b6252ebc7ec",
+			"tenantId": "b8b015476b5a4b339086fccbca94f088",
+			"tenantToken": null,
+			"orgId": "90b281b6-169f-4497-b406-c6a433b4192e",
+			"orgName": null,
+			"mobileNo": "9100001117",
+			"emailId": null,
+			"userId": "90b281b6-169f-4497-b406-c6a433b4192e",
+			"userName": "Agent 1",
+			"billingAddress": null,
+			"shippingAddress": null
+		},
+		"comments": {
+			"polyglotId": "1b2c3eeb-5968-405f-b95b-52412a302ec0",
+			"polyglotParentId": "236faa0f-ea80-4419-872c-9b6252ebc7ec",
+			"tenantId": "b8b015476b5a4b339086fccbca94f088",
+			"tenantToken": null,
+			"referenceInstId": null,
+			"userId": null,
+			"userName": null,
+			"textcomment": null,
+			"date": null
+		}
+	},
+	{
+		"polyglotId": "83b2ad35-0c99-4801-bf0e-dad41711d942",
+		"polyglotParentId": null,
+		"tenantId": "b8b015476b5a4b339086fccbca94f088",
+		"tenantToken": "b8b015476b5a4b339086fccbca94f088",
+		"adjustmentId": "LI-20180614A4DF721ADA",
+		"referenceInstFromId": "DN-201806132609BDDE",
+		"referenceInstToId": "GRN-20180614BEC31833",
+		"refFromLineId": "LI-20180613F2B728B2",
+		"refToLineId": "LI-2018061448B5C4F2",
+		"status": "CREATED",
+		"networkId": "a3835234-f11f-458b-b01d-a1a9cfeae48d",
+		"createdDate": "2018-06-14T06:22:01.953Z",
+		"updatedDate": "2018-06-14T09:35:58.195Z",
+		"reason": "Larger Area",
+		"balanceAmount": 0.0,
+		"balanceHours": 0.0,
+		"actualQuantity": {
+			"polyglotId": "ea1ae167-c474-48e5-874b-7364a404373c",
+			"polyglotParentId": "83b2ad35-0c99-4801-bf0e-dad41711d942",
+			"tenantId": "b8b015476b5a4b339086fccbca94f088",
+			"tenantToken": null,
+			"unit": "Hour",
+			"value": 120.0
+		},
+		"expectedQuantity": {
+			"polyglotId": "ca2bc7f8-e38a-4f99-8e50-5efc79534095",
+			"polyglotParentId": "83b2ad35-0c99-4801-bf0e-dad41711d942",
+			"tenantId": "b8b015476b5a4b339086fccbca94f088",
+			"tenantToken": null,
+			"unit": "Hour",
+			"value": 60.0
+		},
+		"recipient": {
+			"polyglotId": "f5ac724f-be19-48a3-8311-bd78eedd1f2a",
+			"polyglotParentId": "83b2ad35-0c99-4801-bf0e-dad41711d942",
+			"tenantId": "b8b015476b5a4b339086fccbca94f088",
+			"tenantToken": null,
+			"orgId": "ad631845-0e1d-4242-8963-0f1a635757bd",
+			"orgName": null,
+			"mobileNo": "9100001113",
+			"emailId": null,
+			"userId": "ad631845-0e1d-4242-8963-0f1a635757bd",
+			"userName": "Seller",
+			"billingAddress": null,
+			"shippingAddress": null
+		},
+		"comments": {
+			"polyglotId": "b55b103f-0ea3-4e17-9bde-1183e9f1a034",
+			"polyglotParentId": "83b2ad35-0c99-4801-bf0e-dad41711d942",
+			"tenantId": "b8b015476b5a4b339086fccbca94f088",
+			"tenantToken": null,
+			"referenceInstId": "string",
+			"userId": "string",
+			"userName": "string",
+			"textcomment": "string",
+			"date": "2018-06-13T13:28:27.965Z"
+		}
+	}
+]
